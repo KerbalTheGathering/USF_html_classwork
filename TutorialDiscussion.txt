@@ -1,0 +1,4 @@
+Tutorial 1- Tutorial 2 discussion:
+
+The first website I've chosen is TheManchesterOrchestra.com. The site is your typical band website with links to a storefront and tour dates, but what makes the site special is the video which appears full browser when you first land on the page, and the "journey to the surface" page. The video is their recently released documentary which starts with a video of concert footage. It grabs your attention and introduces you to the band if you are looking for more info. If you are looking for more about their latest album (A Black Mile to the Surface) just underneath the video is a picture link. That page is unique to my knowledge in web design. The page opens at the bottom, and you scroll to the top through pictures, audio clips, and explanations of how the album was crafted. This blending of the album concept and web design is perfect to pull more interest and engagement in the site. 
+

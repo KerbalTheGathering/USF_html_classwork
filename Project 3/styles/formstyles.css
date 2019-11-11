@@ -1,0 +1,168 @@
+@media screen and (max-width: 480px){
+	/*Mobile*/
+	main {
+		height: auto;
+	}
+
+	input, select, textarea {
+		width: 75%;
+		display: block;
+		margin: 0 auto auto auto;
+		height: 2em;
+		padding: 0;
+		box-sizing: border-box;
+		border-radius: .3em;
+	}
+
+	textarea {
+		height:4em;
+		padding: 1em 3em;
+		resize: none;
+	}
+
+	label {
+		display: block;
+	}
+
+	form {
+		height: auto;
+	}
+
+	form ul {
+		list-style-type: none;
+	}
+
+	.info {
+		margin: auto;
+	}
+
+	.content {
+		height: auto;
+	}
+
+	.content .subject {
+		height: 6em;
+	}
+
+	.buttons {
+		padding-bottom: 2em;
+	}
+
+	input[type=button], input[type=submit], input[type=reset] {
+		background-color: #55B7E8;
+		border: none;
+		color: white;
+		text-decoration: none;
+		margin: auto;
+		font-size: .75em;
+	}
+}
+
+@media screen and (min-width: 480px){
+	/*Tablet*/
+	main {
+		height: auto;
+	}
+
+	input, select, textarea {
+		width: 75%;
+		display: block;
+		height: 3em;
+		padding: 0 auto;
+		box-sizing: border-box;
+		border-radius: .3em;
+		margin: auto;
+	}
+
+	textarea {
+		height:6em;
+		padding: 1em 3em;
+		resize: none;
+	}
+
+	label {
+		display: block;
+	}
+
+	form {
+		height: auto;
+	}
+
+	form ul {
+		list-style-type: none;
+	}
+
+	.info {
+		margin: auto;
+	}
+
+	.info input {
+
+	}
+
+	.content {
+		height: auto;
+		margin: 0;
+	}
+
+	.content .subject {
+		height: 6em;
+	}
+
+	.buttons {
+		padding-bottom: 2em;
+		padding-top: 1em;
+		display: inline-flex;
+	}
+
+	input[type=button], input[type=submit], input[type=reset] {
+		background-color: #55B7E8;
+		border: none;
+		color: white;
+		text-decoration: none;
+		margin: auto 2em auto 2em;
+		font-size: .75em;
+		padding: 1.25em;
+	}
+
+	.contact-header {
+		height: 5em;
+		padding-bottom: 4em;
+	}
+}
+
+@media screen and (min-width: 769px){
+	/*Laptop-Desktop*/
+	nav li {
+		display: inline;
+	}
+
+	.project-title {
+		height: 720px;
+	}
+
+	textarea {
+		height:20em;
+		padding: 1em 3em;
+		resize: none;
+	}
+
+	.info {
+		width: 75%;
+		text-align: left;
+		padding: 0 auto;
+	}
+
+	.info input {
+		margin: 0 20em 0 auto;
+	}
+
+}
+
+#top-text {
+	padding: 0 .5em 1em .5em;
+}
+
+.modal-form {
+	background-color: rgba(0,0,0,0);
+}
